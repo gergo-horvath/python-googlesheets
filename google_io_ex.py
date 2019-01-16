@@ -11,7 +11,7 @@ try:
     scopes = ["https://www.googleapis.com/auth/drive", "https://www.googleapis.com/auth/drive.file",
               "https://www.googleapis.com/auth/spreadsheets"]
 
-    # path to credentials file
+    # path to credentials file - put the credentials file in your project directory, otherwise specify the path of the file
     secret_file = os.path.join(os.getcwd(), "creds.json")
 
     # get credentials from .json file
