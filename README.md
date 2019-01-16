@@ -1,3 +1,3 @@
 # python-googlesheets
-Interface for reading/writing directly to google sheets
+Interface for reading/writing directly to google sheets <br>
 For more help: https://developers.google.com/sheets/api/guides/concepts
